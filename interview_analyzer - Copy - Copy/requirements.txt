@@ -1,0 +1,12 @@
+openai>=1.30.0
+openai-whisper==20231117
+spacy==3.7.4
+sentence-transformers==2.7.0
+gTTS==2.5.1
+streamlit==1.35.0
+sounddevice==0.4.6
+soundfile==0.12.1
+numpy==1.26.4
+torch==2.3.0
+pydub==0.25.1
+python-dotenv==1.0.1
